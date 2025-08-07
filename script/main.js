@@ -80,7 +80,7 @@ const animationTimeline = () => {
         y: 10
     })
     .to(".three",
-        0.7,
+        4.7,
         {
             opacity: 0,
             y: 10

@@ -38,7 +38,7 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 1rem;
 }
 
 .four .text-box {
@@ -83,7 +83,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -267,7 +267,21 @@ body {
   .idea-5 span {
     display: block;
   }
-
+  .idea-1{
+    font-size: 1rem;
+  }
+  .idea-2{
+    font-size: 1rem;
+  }
+  .idea-3{
+    font-size: 1rem;
+  }
+  .idea-4{
+    font-size: 1rem;
+  }
+  .idea-5{
+    font-size: 1rem;
+  }
   .idea-6 span {
     font-size: 10rem;
   }

@@ -75,6 +75,21 @@ body {
   position: absolute;
   right: 0;
 }
+.idea-1{
+    font-size: 0.5rem;
+  }
+  .idea-2{
+    font-size: 0.5rem;
+  }
+  .idea-3{
+    font-size: 0.5rem;
+  }
+  .idea-4{
+    font-size: 0.5rem;
+  }
+  .idea-5{
+    font-size: 0.5rem;
+  }
 
 .idea-3 strong {
   border-radius: 3px;
@@ -83,7 +98,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 2rem;
+  font-size: 0.5rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -268,19 +283,19 @@ body {
     display: block;
   }
   .idea-1{
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .idea-2{
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .idea-3{
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .idea-4{
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .idea-5{
-    font-size: 1rem;
+    font-size: 0.5rem;
   }
   .idea-6 span {
     font-size: 10rem;

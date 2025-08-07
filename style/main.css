@@ -84,7 +84,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 .idea-5 span, .idea-6 span, .wish-hbd span {
@@ -278,7 +278,7 @@ body {
   left: 0;
   position: absolute;
   right: 0;
-}
+  }
 
   .six .hat {
     /* top: -20px; */
